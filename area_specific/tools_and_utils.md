@@ -41,6 +41,7 @@
 
 ### 1.3. Benchmarking
 
+- [Pointer chasing](https://curiouscoding.nl/posts/cpu-benchmarks/) - Curious Coding's walkthrough on pointer chasing and other memory optimizations
 - [Multichase](https://github.com/google/multichase) - Pointer chase to reveal memory bandwidth and loaded-latency
 - [PARAM](https://github.com/facebookresearch/param) - Repository of communication and compute micro-benchmarks as well as full workloads for evaluating training and inference platforms
 - [Google Workload Traces](https://dynamorio.org/google_workload_traces.html) - Warehouse scale traces captured using DynamoRIO's drmemtrace. The traces are records of instruction and memory accesses as described at Trace Format
